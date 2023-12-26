@@ -53,7 +53,7 @@ const Plan = () => {
 
                 </p>
                 <div>
-                    <button className='border-black mr-4 hover:shadow-xl hover:border-black/20'>Discover Destinations</button>
+                    <button className='border-black mr-4 hover:shadow-xl hover:border-black/20 mb-4'>Discover Destinations</button>
                     <button className='bg-black text-white border-black hover:shadow-xl hover:bg-black/90'>Reserve Your Adventure</button>
                 </div>
             </div>
